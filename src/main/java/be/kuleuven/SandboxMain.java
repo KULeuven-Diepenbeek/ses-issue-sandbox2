@@ -20,10 +20,7 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
-
                 new Zwemmen(),
-                new BucketOfWater()
-
                 new BucketOfWater(),
                 new Ijsbeer(),
                 new Kamperen(),

@@ -26,8 +26,12 @@ public class SandboxMain {
                 new Kiting(),
 
 
+
                 new Zwemmen(),
                 new BucketOfWater(),
+
+
+                new Zwemmen(),
 
                 new BucketOfWater(),
                 new Ijsbeer(),

@@ -4,6 +4,7 @@ import be.kuleuven.sandbox.BucketOfWater;
 import be.kuleuven.sandbox.FishingNet;
 import be.kuleuven.sandbox.Kiting;
 import be.kuleuven.sandbox.SandCastle;
+import be.kuleuven.sandbox.Zee;
 
 import java.lang.String;
 import java.util.Arrays;

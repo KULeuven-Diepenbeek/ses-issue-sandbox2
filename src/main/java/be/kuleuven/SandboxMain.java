@@ -1,6 +1,21 @@
 package be.kuleuven;
 
+
+
+
+
+
+
+
 import be.kuleuven.sandbox.*;
+
+
+
+
+
+
+
+
 
 
 import java.lang.String;
@@ -15,13 +30,42 @@ public class SandboxMain {
                 new Kiting(),
                 new StrandStoel(),
                 new BucketOfWater(),
+
+                new Vissen(),
+
+                new Raket(),
+                new Gocarten(),
+                new Zee(),
+                new Zwemmen(),
+                new Ijsbeer(),
+                new Kamperen(),
+                new StrandStoel(),
                 new Jellyfish(),
                 new Sneeuw(),
                 new Dog(),
                 new Raket(),
 
                 new BucketOfWater(),
-                new Vissen()
+                new sleep(),
+
+
+
+
+                new BucketOfWater(),
+                new LekkerBiertje(),
+
+
+                new BucketOfWater(),
+                new IceCream(),
+
+
+                new LekkerBiertje(),
+                new Wind(),
+                new BucketOfWater(),
+                new LekkerBiertje(),
+                new Wind()
+
+
         );
 
 
@@ -30,5 +74,13 @@ public class SandboxMain {
        
             playItem.play();
        }
+    }
+}
+
+class ijsbeer implements Playable {
+    SandboxMain lol = new SandboxMain();
+
+    public void play() {
+
     }
 }

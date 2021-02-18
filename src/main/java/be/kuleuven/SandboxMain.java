@@ -14,10 +14,11 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
-                new Jellyfish()
-                new Sneeuw()
-                new Dog()
-                new Raket()
+                new Jellyfish(),
+                new Sneeuw(),
+                new Dog(),
+                new Raket(),
+                new Boot()
           
         );
 

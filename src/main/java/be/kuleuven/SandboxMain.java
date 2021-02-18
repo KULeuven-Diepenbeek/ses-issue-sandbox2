@@ -14,12 +14,20 @@ public class SandboxMain {
                 new Kiting(),
                 new BucketOfWater(),
                 new Ijsbeer()
-
+                new Kamperen(),
+                new StrandStoel(),
+                new BucketOfWater(),
+                new Jellyfish(),
+                new Sneeuw(),
+                new Dog(),
+                new Raket()
         );
 
-        System.out.println("A day at the sea in the sand: \n");
+
+           System.out.println("A day at the sea in the sand: \n");
         for (var playItem : list) {
+       
             playItem.play();
-        }
+       }
     }
 }

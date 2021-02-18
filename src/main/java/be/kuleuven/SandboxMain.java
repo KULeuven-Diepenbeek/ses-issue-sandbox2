@@ -1,6 +1,7 @@
 package be.kuleuven;
 
 
+
 import be.kuleuven.sandbox.BucketOfWater;
 import be.kuleuven.sandbox.FishingNet;
 import be.kuleuven.sandbox.Kiting;
@@ -8,6 +9,9 @@ import be.kuleuven.sandbox.SandCastle;
 import be.kuleuven.sandbox.Zwemmen;
 
 import be.kuleuven.sandbox.*;
+
+
+
 
 
 import java.lang.String;
@@ -21,18 +25,23 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
 
+
                 new Zwemmen(),
-                new BucketOfWater()
+                new BucketOfWater(),
 
                 new BucketOfWater(),
-                new Ijsbeer()
+                new Ijsbeer(),
                 new Kamperen(),
                 new StrandStoel(),
                 new BucketOfWater(),
                 new Jellyfish(),
                 new Sneeuw(),
                 new Dog(),
-                new Raket()
+                new Raket(),
+
+
+                new BucketOfWater(),
+                new LekkerBiertje()
 
         );
 

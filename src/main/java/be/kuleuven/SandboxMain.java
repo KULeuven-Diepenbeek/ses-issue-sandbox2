@@ -1,10 +1,5 @@
 package be.kuleuven;
 
-import be.kuleuven.sandbox.BucketOfWater;
-import be.kuleuven.sandbox.FishingNet;
-import be.kuleuven.sandbox.Kiting;
-import be.kuleuven.sandbox.SandCastle;
-import be.kuleuven.sandbox.Sneeuw;
 import be.kuleuven.sandbox.*;
 
 
@@ -19,6 +14,7 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
+                new Jellyfish()
                 new Sneeuw()
                 new Dog()
                 new Raket()

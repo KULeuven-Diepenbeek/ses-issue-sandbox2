@@ -1,32 +1,11 @@
 package be.kuleuven;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> a669fd65e15b78000f4c2f7612f536c50729d902
 
 
 
-import be.kuleuven.sandbox.BucketOfWater;
-import be.kuleuven.sandbox.FishingNet;
-import be.kuleuven.sandbox.Kiting;
-import be.kuleuven.sandbox.SandCastle;
-<<<<<<< HEAD
-<<<<<<< HEAD
-import be.kuleuven.sandbox.Playable;
-=======
-import be.kuleuven.sandbox.Zwemmen;
-import be.kuleuven.sandbox.*;
-import be.kuleuven.sandbox.Wind;
 
->>>>>>> fa8f81000e2290cf7725f639b10aacd5a3374aa0
 
-=======
-import be.kuleuven.sandbox.*;
->>>>>>> 85ae6b1b4df77831de7983c448ff10798da8d013
-=======
-import be.kuleuven.sandbox.Zwemmen;
+
 
 import be.kuleuven.sandbox.*;
 
@@ -36,7 +15,7 @@ import be.kuleuven.sandbox.*;
 
 
 
->>>>>>> a669fd65e15b78000f4c2f7612f536c50729d902
+
 import java.lang.String;
 import java.util.Arrays;
 
@@ -48,6 +27,9 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
+
+                new Vissen()
+
                 new Raket(),
                 new Gocarten(),
                 new Zee(),
@@ -77,6 +59,7 @@ public class SandboxMain {
                 new BucketOfWater(),
                 new LekkerBiertje(),
                 new Wind()
+
 
         );
 

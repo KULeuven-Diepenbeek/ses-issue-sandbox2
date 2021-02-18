@@ -12,7 +12,6 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new StrandStoel(),
-                new BucketOfWater()
                 new BucketOfWater(),
                 new Jellyfish(),
                 new Sneeuw(),

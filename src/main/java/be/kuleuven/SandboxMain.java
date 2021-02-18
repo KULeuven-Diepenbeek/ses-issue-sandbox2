@@ -29,6 +29,8 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
+                new Raket(),
+                new Gocarten(),
                 new Zee(),
                 new Zwemmen(),
                 new Ijsbeer(),
@@ -52,6 +54,9 @@ public class SandboxMain {
 
 
                 new LekkerBiertje(),
+                new Wind(),
+                new BucketOfWater(),
+                new LekkerBiertje()
                 new Wind()
 
         );

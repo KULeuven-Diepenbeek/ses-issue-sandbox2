@@ -2,6 +2,7 @@ package be.kuleuven;
 
 <<<<<<< HEAD
 
+
 import be.kuleuven.sandbox.BucketOfWater;
 import be.kuleuven.sandbox.FishingNet;
 import be.kuleuven.sandbox.Kiting;
@@ -13,6 +14,9 @@ import be.kuleuven.sandbox.*;
 =======
 import be.kuleuven.sandbox.*;
 >>>>>>> IceCreamUpdate
+
+
+
 
 import java.lang.String;
 import java.util.Arrays;
@@ -26,18 +30,27 @@ public class SandboxMain {
                 new Kiting(),
 <<<<<<< HEAD
 
+
+
                 new Zwemmen(),
-                new BucketOfWater()
+                new BucketOfWater(),
+
+
+                new Zwemmen(),
 
                 new BucketOfWater(),
-                new Ijsbeer()
+                new Ijsbeer(),
                 new Kamperen(),
                 new StrandStoel(),
                 new BucketOfWater(),
                 new Jellyfish(),
                 new Sneeuw(),
                 new Dog(),
-                new Raket()
+                new Raket(),
+
+
+                new BucketOfWater(),
+                new LekkerBiertje()
 
 =======
                 new BucketOfWater(),

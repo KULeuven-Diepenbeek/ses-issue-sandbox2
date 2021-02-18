@@ -1,6 +1,8 @@
 package be.kuleuven;
 
 import be.kuleuven.sandbox.*;
+
+
 import java.lang.String;
 import java.util.Arrays;
 
@@ -16,8 +18,10 @@ public class SandboxMain {
                 new Jellyfish(),
                 new Sneeuw(),
                 new Dog(),
-                new Raket()
-          
+                new Raket(),
+
+                new BucketOfWater(),
+                new Vissen()
         );
 
 

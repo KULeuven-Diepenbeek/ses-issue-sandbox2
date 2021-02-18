@@ -2,6 +2,7 @@ package be.kuleuven;
 
 import be.kuleuven.sandbox.*;
 
+
 import java.lang.String;
 import java.util.Arrays;
 
@@ -13,12 +14,14 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
+                new Dog()
                 new Raket()
+          
         );
 
         System.out.println("A day at the sea in the sand: \n");
-        for (var playItem : list) {
+       /* for (var playItem : list) {
             playItem.play();
-        }
+       */}
     }
 }

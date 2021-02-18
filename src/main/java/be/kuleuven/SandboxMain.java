@@ -1,6 +1,6 @@
 package be.kuleuven;
 
-<<<<<<< HEAD
+
 
 
 import be.kuleuven.sandbox.BucketOfWater;
@@ -11,9 +11,7 @@ import be.kuleuven.sandbox.Zwemmen;
 
 import be.kuleuven.sandbox.*;
 
-=======
-import be.kuleuven.sandbox.*;
->>>>>>> IceCreamUpdate
+
 
 
 
@@ -28,7 +26,6 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
-<<<<<<< HEAD
 
 
 
@@ -48,14 +45,17 @@ public class SandboxMain {
                 new Dog(),
                 new Raket(),
 
+                new sleep(),
+
+
 
                 new BucketOfWater(),
-                new LekkerBiertje()
+                new LekkerBiertje(),
 
-=======
+
                 new BucketOfWater(),
                 new IceCream()
->>>>>>> IceCreamUpdate
+
         );
 
 

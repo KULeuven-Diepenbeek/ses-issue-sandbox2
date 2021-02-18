@@ -56,7 +56,7 @@ public class SandboxMain {
                 new LekkerBiertje(),
                 new Wind(),
                 new BucketOfWater(),
-                new LekkerBiertje()
+                new LekkerBiertje(),
                 new Wind()
 
         );

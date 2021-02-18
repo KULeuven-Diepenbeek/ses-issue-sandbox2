@@ -16,7 +16,8 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
-                new BucketOfWater()
+                new BucketOfWater(),
+                new Zee()
         );
 
         System.out.println("A day at the sea in the sand: \n");

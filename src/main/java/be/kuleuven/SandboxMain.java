@@ -13,7 +13,8 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
-                new Raket()
+                new Raket(),
+                new Gocarten()
         );
 
         System.out.println("A day at the sea in the sand: \n");

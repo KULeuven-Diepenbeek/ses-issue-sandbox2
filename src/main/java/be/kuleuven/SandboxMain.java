@@ -12,10 +12,9 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
-
-               
+                new BucketOfWater(),
+                new Ijsbeer()
                 new Kamperen(),
-
                 new StrandStoel(),
                 new BucketOfWater(),
                 new Jellyfish(),

@@ -1,6 +1,7 @@
 package be.kuleuven;
 
 import be.kuleuven.sandbox.*;
+
 import java.lang.String;
 import java.util.Arrays;
 
@@ -11,13 +12,16 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
+
+               
+                new Kamperen(),
+
                 new StrandStoel(),
                 new BucketOfWater(),
                 new Jellyfish(),
                 new Sneeuw(),
                 new Dog(),
                 new Raket()
-          
         );
 
 

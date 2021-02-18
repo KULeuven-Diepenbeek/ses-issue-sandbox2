@@ -1,5 +1,6 @@
 package be.kuleuven;
 
+<<<<<<< HEAD
 
 
 
@@ -16,6 +17,9 @@ import be.kuleuven.sandbox.Wind;
 
 >>>>>>> fa8f81000e2290cf7725f639b10aacd5a3374aa0
 
+=======
+import be.kuleuven.sandbox.*;
+>>>>>>> 85ae6b1b4df77831de7983c448ff10798da8d013
 import java.lang.String;
 import java.util.Arrays;
 
@@ -26,10 +30,11 @@ public class SandboxMain {
                 new SandCastle(),
                 new FishingNet(),
                 new Kiting(),
-                new Zwemmen(),
                 new BucketOfWater(),
+                new Raket(),
+                new Gocarten(),
+                new Zee(),
                 new Zwemmen(),
-                new BucketOfWater(),
                 new Ijsbeer(),
                 new Kamperen(),
                 new StrandStoel(),
@@ -38,11 +43,11 @@ public class SandboxMain {
                 new Dog(),
                 new Raket(),
                 new sleep(),
-                new BucketOfWater(),
                 new LekkerBiertje(),
                 new Wind(),
                 new BucketOfWater(),
                 new LekkerBiertje()
+                new Wind()
         );
 
 

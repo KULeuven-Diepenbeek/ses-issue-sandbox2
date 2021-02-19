@@ -22,10 +22,10 @@ public class SandboxMain {
                 new Kiting(),
 
                 new Zwemmen(),
-                new BucketOfWater()
-
                 new BucketOfWater(),
-                new Ijsbeer()
+                new Beachvolleyballen(),
+                new BucketOfWater(),
+                new Ijsbeer(),
                 new Kamperen(),
                 new StrandStoel(),
                 new BucketOfWater(),

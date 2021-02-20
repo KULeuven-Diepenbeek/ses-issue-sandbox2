@@ -27,8 +27,8 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new BucketOfWater(),
-
-                new Vissen()
+                new Kleuren(),
+                new Vissen(),
 
                 new Raket(),
                 new Gocarten(),

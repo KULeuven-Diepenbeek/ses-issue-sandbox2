@@ -2,15 +2,6 @@ package be.kuleuven;
 
 import be.kuleuven.sandbox.*;
 
-
-
-
-
-
-
-
-
-
 import java.lang.String;
 import java.util.Arrays;
 
@@ -21,6 +12,9 @@ public class SandboxMain {
                 new FishingNet(),
                 new Kiting(),
                 new StrandStoel(),
+                new Vissen(),
+                new BucketOfWater(),
+                new Kleuren(),
                 new Vissen(),
                 new Raket(),
                 new Gocarten(),
